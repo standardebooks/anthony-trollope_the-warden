@@ -15,6 +15,35 @@ span[epub|type~="subtitle"]{
 	font-size: 200%;
 }
 
+[epub|type~="z3998:letter"] header p{
+	text-indent: 0;
+}
+
+[epub|type~="z3998:letter"] footer p{
+	margin-top: 1em;
+	text-align: right;
+}
+
+[epub|type~="z3998:salutation"]{
+	font-variant: small-caps;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:recipient"]{
+	font-variant: small-caps;
+}
+
+[epub|type~="se:letter.dateline"]{
+	margin-top: 1em;
+	text-align: right;
+	font-style: italic;
+}
+
+[epub|type~="z3998:valediction"],
+[epub|type~="z3998:sender"]{
+	text-align: right;
+}
+
 table{
 	border-collapse: collapse;
 	border-style: none;
