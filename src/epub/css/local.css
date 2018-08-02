@@ -15,6 +15,10 @@ span[epub|type~="subtitle"]{
 	font-size: 200%;
 }
 
+[epub|type~="z3998:letter"] header{
+	text-align: left;
+}
+
 [epub|type~="z3998:letter"] header p{
 	text-indent: 0;
 }
