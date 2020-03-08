@@ -56,8 +56,8 @@
 		<dc:source>https://www.gutenberg.org/ebooks/619</dc:source>
 		<dc:source>https://archive.org/details/warden01trolgoog</dc:source>
 		<meta property="se:production-notes">In Chapter 4, to simulate the crosses which the old men make in lieu of signatures, I have used the cross-mark U+2717 rather than the letter X (which might be displayed with serifs). I have also created a class "signature-mark" to increase the font size for this one character.</meta>
-		<meta property="se:word-count">72777</meta>
-		<meta property="se:reading-ease.flesch">64.14</meta>
+		<meta property="se:word-count">72778</meta>
+		<meta property="se:reading-ease.flesch">63.93</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Warden</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anthony-trollope_the-warden</meta>
 		<dc:creator id="author">Anthony Trollope</dc:creator>
