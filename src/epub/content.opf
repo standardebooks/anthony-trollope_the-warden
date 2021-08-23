@@ -46,6 +46,9 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2009114728</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Chronicles of Barsetshire</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">In a cathedral town in England, a minor cleric becomes involved in a dispute about the wardenship of a hospital for superannuated wool-carders, and suffers pangs of conscience.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Warden&lt;/i&gt; is concerned with the unassuming &lt;abbr&gt;Rev.&lt;/abbr&gt; Septimus Harding, who has for many years been the Warden of Hiram’s Hospital in the fictional town of Barchester. This “hospital” is what we would today probably call an aged-care or retirement home. It was established under the provisions of a will to look after the needs of old men too feeble to work any longer and unable to support themselves. &lt;abbr&gt;Mr.&lt;/abbr&gt; Harding benefits financially from his position, though the duties are very slight.&lt;/p&gt;
