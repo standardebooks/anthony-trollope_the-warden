@@ -1,0 +1,1 @@
+In Chapter 4, to simulate the crosses which the old men make in lieu of signatures, I have used the cross-mark U+2717 rather than the letter X (which might be displayed with serifs). I have also created a class "signature-mark" to increase the font size for this one character.
